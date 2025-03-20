@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xoailomo
+- 👋 Hi, I’m Khoa Vinh Phan, you can call me Brendan
 - 👀 I’m interested in analyzing
 - 🌱 I’m currently learning Information system major
 - 💞️ I’m looking to collaborate on Data analyst

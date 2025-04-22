@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Khoa Vinh Phan, you can call me Lawson
-- 👀 I’m interested in bigdata, analysis, and AI
+- 👀 I’m interested in data field
 - 🌱 I’m currently learning Information system major
 
 <!---

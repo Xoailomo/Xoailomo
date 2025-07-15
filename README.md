@@ -37,5 +37,5 @@ I am a proactive and detail-oriented Information Systems student at FPT Universi
 
 ### 📫 Let's Connect!
 
-*   **LinkedIn:** [KhoaL](https://www.linkedin.com/in/brendan-phan-u34834/)
+*   **LinkedIn:** [Khoa](https://www.linkedin.com/in/brendan-phan-u34834/)
 *   **Email:** phankhoatn2011@gmail.com

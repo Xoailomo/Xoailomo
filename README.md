@@ -1,4 +1,4 @@
-# Hi, I'm Khoa (Lawson) 👋
+# Hi, I'm Khoa 👋
 
 ### Information Systems Student | Bridging Business Needs with Technical Solutions
 
@@ -37,5 +37,5 @@ I am a proactive and detail-oriented Information Systems student at FPT Universi
 
 ### 📫 Let's Connect!
 
-*   **LinkedIn:** [Your LinkedIn Profile URL](https://www.linkedin.com/in/brendan-phan-u34834/)
+*   **LinkedIn:** [KhoaL](https://www.linkedin.com/in/brendan-phan-u34834/)
 *   **Email:** phankhoatn2011@gmail.com

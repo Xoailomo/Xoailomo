@@ -24,7 +24,7 @@ I am a proactive and detail-oriented Information Systems student at FPT Universi
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![1C:Enterprise](https://img.shields.io/badge/1C-CE0000?style=for-the-badge&logo=1c&logoColor=white)
+![1C:Enterprise](https://img.shields.io/badge/1C:Enterprise-CE0000?style=for-the-badge&logo=1c&logoColor=white)
 
 
 ---
